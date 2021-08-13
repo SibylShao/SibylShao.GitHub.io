@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "还在学习"
-date:   2021-08-12 20:06:07 +0800
+date:   2021-08-13 16:06:07
 categories: jekyll update
 ---
 可能需要学习ruby才能搞清楚是什么情况。
